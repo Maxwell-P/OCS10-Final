@@ -1,5 +1,2 @@
 # OCS10-Final
-
-This program is a tic-tac-toe game where a player can play against
-a computer opponent, with options for two different difficulty modes, and the
-game continues until there is a winner or a tie.
+For OCS10 (Programming in C++: Techniques and Algorithms) one of the final projects was to construct a terminal style Tic Tac Toe game. The difficulty was in constructing an unbeatable AI mode, it was a very fun task that made me a master at the game. 
